@@ -1,0 +1,1 @@
+Sitemap: https://applied-ai-course.github.io/beta_blog/sitemap.xml
